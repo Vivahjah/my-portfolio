@@ -134,7 +134,7 @@ const Header = () => {
               animate={{ y: 0, opacity: 1 }}
               transition={{ duration: 0.3, delay: 2 }}
             >
-              <a href='/files/resume.pdf' download>
+              <a href='/files/Mengwa_Ugochukwu_Resume.pdf' download>
                 <Button text="Resume" link="/" size="small" />
               </a>
             </motion.div>
@@ -180,7 +180,7 @@ const Header = () => {
               transition={{ duration: 0.3, delay: 2 }}
               className="mt-3"
             >
-              <a href='/files/resume.pdf' download>
+              <a href='/files/Mengwa_Ugochukwu_Resume.pdf' download>
                 <Button text="Resume" link="/"  />
               </a>
             </motion.div>
