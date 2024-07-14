@@ -22,7 +22,7 @@ export default function Page() {
   return (
     <>
       <Head>
-        <title>Ugochukwu Mengwa</title>
+        <title>Ugochukwu Mengwa | Software Developer</title>
         <meta property="og:title" content="Mengwa Ugochukwu" key="title" />
       </Head>
 
